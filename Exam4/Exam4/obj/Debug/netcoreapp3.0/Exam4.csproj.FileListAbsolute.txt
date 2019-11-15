@@ -1,0 +1,11 @@
+C:\Users\jovan\OneDrive\Desktop\Exam4\Exam4\bin\Debug\netcoreapp3.0\Exam4.exe
+C:\Users\jovan\OneDrive\Desktop\Exam4\Exam4\bin\Debug\netcoreapp3.0\Exam4.deps.json
+C:\Users\jovan\OneDrive\Desktop\Exam4\Exam4\bin\Debug\netcoreapp3.0\Exam4.runtimeconfig.json
+C:\Users\jovan\OneDrive\Desktop\Exam4\Exam4\bin\Debug\netcoreapp3.0\Exam4.runtimeconfig.dev.json
+C:\Users\jovan\OneDrive\Desktop\Exam4\Exam4\bin\Debug\netcoreapp3.0\Exam4.dll
+C:\Users\jovan\OneDrive\Desktop\Exam4\Exam4\bin\Debug\netcoreapp3.0\Exam4.pdb
+C:\Users\jovan\OneDrive\Desktop\Exam4\Exam4\obj\Debug\netcoreapp3.0\Exam4.AssemblyInfoInputs.cache
+C:\Users\jovan\OneDrive\Desktop\Exam4\Exam4\obj\Debug\netcoreapp3.0\Exam4.AssemblyInfo.cs
+C:\Users\jovan\OneDrive\Desktop\Exam4\Exam4\obj\Debug\netcoreapp3.0\Exam4.dll
+C:\Users\jovan\OneDrive\Desktop\Exam4\Exam4\obj\Debug\netcoreapp3.0\Exam4.pdb
+C:\Users\jovan\OneDrive\Desktop\Exam4\Exam4\obj\Debug\netcoreapp3.0\Exam4.csprojAssemblyReference.cache
